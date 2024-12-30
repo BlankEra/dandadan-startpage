@@ -24,7 +24,7 @@ const bookmarks = [
     label: "social",
     items: {
       youtube: "https://youtube.com",
-      reddit: "https://reddit.com",
+      reddit: "https://old.reddit.com",
     },
   },
   {
