@@ -1,33 +1,9 @@
 const variants = {
-  "aira-1": {
-    img: "aira-1.webp",
-    primary: "hsl(41, 93%, 73%)",
-    secondary: "hsl(324, 49%, 80%)",
-    shade: "hsl(41, 39%, 26%, 39%)",
-  },
   "aira-2": {
     img: "aira-2.webp",
     primary: "hsl(0, 86%, 67%)",
     secondary: "hsl(214, 100%, 75%)",
     shade: "hsl(360, 43%, 24%, 39%)",
-  },
-  "granny-1": {
-    img: "granny-1.webp",
-    primary: "hsl(176, 93%, 58%)",
-    secondary: "hsl(270, 36%, 70%)",
-    shade: "hsl(177, 72%, 20%, 39%)",
-  },
-  "granny-2": {
-    img: "granny-2.webp",
-    primary: "hsl(176, 93%, 58%)",
-    secondary: "hsl(6, 93%, 70%)",
-    shade: "hsl(177, 72%, 20%, 39%)",
-  },
-  "jiji-1": {
-    img: "jiji-1.webp",
-    primary: "hsl(235, 59%, 33%)",
-    secondary: "hsl(5, 78%, 74%)",
-    shade: "hsl(236, 79%, 9%, 39%)",
   },
   "momo-1": {
     img: "momo-1.webp",
@@ -52,24 +28,6 @@ const variants = {
     primary: "hsl(230, 59%, 40%)",
     secondary: "hsl(348, 50%, 73%)",
     shade: "hsl(230, 76%, 12%, 39%)",
-  },
-  "okarun-3": {
-    img: "okarun-3.webp",
-    primary: "hsl(172, 68%, 67%)",
-    secondary: "hsl(294, 50%, 75%)",
-    shade: "hsl(173, 34%, 23%, 39%)",
-  },
-  "seiko-1": {
-    img: "seiko-1.webp",
-    primary: "hsl(195, 61%, 26%)",
-    secondary: "hsl(23, 59%, 65%)",
-    shade: "hsl(196, 86%, 7%, 39%)",
-  },
-  "seiko-2": {
-    img: "seiko-2.webp",
-    primary: "hsl(89, 93%, 76%)",
-    secondary: "hsl(131, 52%, 70%)",
-    shade: "hsl(90, 35%, 27%, 39%)",
   },
 }
 
