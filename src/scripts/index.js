@@ -3,35 +3,35 @@ import { updateVariant } from "./variants.js"
 
 const bookmarks = [
   {
-    label: "reddit",
+    label: "piracy",
     items: {
-      "r/startpages": "https://www.reddit.com/r/startpages",
-      "r/unixporn": "https://www.reddit.com/r/unixporn",
-      "r/webdev": "https://www.reddit.com/r/webdev",
-      "r/coolgithubprojects ": "https://www.reddit.com/r/coolgithubprojects ",
+      "fitgirl": "https://fitgirl-repacks.site/",
+      "dodi": "https://dodi-repacks.site/",
+      "cs.rin": "https://cs.rin.ru/forum/",
+      "megathread": "https://www.reddit.com/r/Piracy/wiki/megathread/",
     },
   },
   {
     label: "tools",
     items: {
-      "img > compress": "https://compressimage.io/",
+      "vid > compress": "https://8mb.video",
       "img > upscale": "https://bigjpg.com/",
       "css > shadows": "https://www.joshwcomeau.com/shadow-palette/",
       "js > bundlephobia": "https://bundlephobia.com/",
     },
   },
   {
-    label: "libs",
+    label: "social",
     items: {
-      tailwind: "https://tailwindcss.com/docs/customizing-colors",
-      shadcn: "https://ui.shadcn.com/docs/components",
+      youtube: "https://youtube.com",
+      reddit: "https://reddit.com",
     },
   },
   {
-    label: "ressources",
+    label: "ai",
     items: {
-      "react > bulletproof": "https://github.com/alan2207/bulletproof-react",
-      "js > patterns": "https://www.patterns.dev/#patterns",
+      "civitai": "https://civitai.com/models",
+      "llm": "https://llm.extractum.io/",
     },
   },
 ]
